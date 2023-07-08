@@ -144,3 +144,7 @@ main {
     display: flex;
     justify-content: space-around;
 }
+
+.skill{
+    padding: 30px;
+}
